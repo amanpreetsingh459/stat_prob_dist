@@ -1,5 +1,5 @@
 # stat_prob_dist
-A python package to calculate Statistics and Probability Distributions. Currently provides Gaussian and Binomial distribution support. Please note that this is very early stage and is certainly not ready for production use. Have a look on the project at [Pypi](https://pypi.org/project/stat-prob-dist/)
+A python package to calculate Statistics and Probability Distributions. Currently provides Gaussian and Binomial distribution support. Please note that this is very early stage and is certainly not ready for production use. Have a look on the project at **[Pypi](https://pypi.org/project/stat-prob-dist/)**
 
 
 ## Prerequisites
